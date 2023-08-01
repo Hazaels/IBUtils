@@ -1,0 +1,9 @@
+The descendants of TfraMain should define these methods::
+GetLeftJoin
+GetRightJoin
+AddRelations
+RefreshRelations
+Paint
+Refresh
+SaveToIniFile
+LoadFromIniFile
